@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Connexion"),
+          title: const Text("Connexion boooo"),
         ),
         body:  Center(
             child: Column(
